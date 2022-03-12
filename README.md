@@ -1,1 +1,1 @@
-# PCA_for_customer_segment
+As such, reducing dimensions to improve clarity is a requirement, similar to a database system. PCA is a very important concept while training a machine for greater accuracy. A PCA algorithm will reduce the dimensions in given data without affecting the output, showing more accurate results.
